@@ -50,7 +50,15 @@
 
 ## 예시
 1번 줄  
-2번 줄
+2번 줄  
+# 4. Bold, Italic
+* Bold 와 italic은 문자를 감싸고 있는 *혹은 _의 개수 에 따라 변한다.
+* 단어의 일부분만 bold혹은 italic으로 쓸 경우 _는 적용이 안되는 경우가 있으므로 *을 쓰는 것이 좋다. _는 뒤에 띄어쓰기가 필요하다. _italic_은 안되고 _italic_ 은 된다.
+* Bold는 html의 `<strong>`에 해당하고 italic은 `<em>`에 해당한다. 
+ 
+* `*` or `_` : *italic*
+* `**` or `__` : **bold**
+* `***` or `___` : ***italic and bold***
 
 
 
