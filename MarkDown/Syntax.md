@@ -164,16 +164,17 @@ ___
 *  간단하게 링크를 올린다면 `<URL>` 로도 올릴 수 있다. 
 *  링크는 일반 텍스트와 마찬가지로 **bold**, *italic*도 적용할 수 있다. 
 *  만약 링크 URL에 공백이 포함될 경우 공백을 `%20`으로 대체하거나 html 태그를 지원한다면 `<href>`를 사용해야 한다.
+*  이미지에도 링크를 걸 수 있다. 
 
-***[작성자 Git link](https://github.com/ysungmin/Study "툴 팁 메시지")***
+***[작성자 Git link](https://github.com/ysungmin/Study "툴 팁 메시지")***  
+[![yello cycle](./image/Yellow_cycle.png)](https://github.com/ysungmin/Study)
 
 # 12 참조 링크
 *  참조 링크는 기존의 링크의 주소부분을 따로 분리한 형식이다.
-*  `[표시할 글자][링크 별칭]` 으로 사용 부분에서 사용하고 후에 다른 줄에서 `[링크 별칭] : {URL}`로 해당 별칭이 연결될 URL 주소를 연결해서 사용한다.
+*  `[표시할 글자][링크 별칭]` 으로 사용 부분에서 사용하고 후에 다른 줄에서 `[링크 별칭] : <URL> (툴팁)`로 해당 별칭이 연결될 URL 주소를 연결해서 사용한다.
 
 참조링크 : [링크 Test][ref link 1]
 
-[ref link 1]:(https://github.com/ysungmin/Study)  
-
+[ref link 1]: https://github.com/ysungmin/Study (작성자 git)  
 
 
