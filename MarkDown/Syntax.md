@@ -171,7 +171,7 @@ ___
 ### 참조 링크는 기존의 링크의 주소부분을 따로 분리한 형식이다.
 ### `[표시할 글자][링크 별칭]` 으로 사용 부분에서 사용하고 후에 다른 줄에서 `[링크 별칭] : {URL}`로 해당 별칭이 연결될 URL 주소를 연결해서 사용한다.
 
-참조링크 : [링크 Test][참조 링크 1]
+참조링크 : [링크 Test][ref link 1]
 
-[참조 링크 1]:(https://github.com/ysungmin/Study)
+[ref link 1]:(https://github.com/ysungmin/Study)
 
