@@ -135,7 +135,7 @@ html tag
 
 # 7 이미지
 * `[데체 텍스트](이피지 파일 경로)`로 이미지를 올릴 수 있다.  
-[yellow cycle](/image/Yellow_cycle.png)
+![yellow cycle](./image/Yellow_cycle.png)
 
 
 # 8 코드
@@ -173,5 +173,7 @@ ___
 
 참조링크 : [링크 Test][ref link 1]
 
-[ref link 1]:(https://github.com/ysungmin/Study)
+[ref link 1]:(https://github.com/ysungmin/Study)  
+
+
 
